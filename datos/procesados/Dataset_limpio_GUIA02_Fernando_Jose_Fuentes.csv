@@ -1,0 +1,7 @@
+id_venta,fecha,id_producto,cantidad,precio_unitario,canal_ventas,total_venta,nombre_producto,categoria,proveedor,costo_unitario,utilidad_estimada,id_promocion,tipo_promocion,porcentaje,ahno,mes,dia,dia_semana,es_fin_semana,tiene_promocion,descuento_estimado,venta_neta_estimada,margen_unitario,nivel_venta
+1,2026-06-22,101,2,15.2,Web,30.4,Sensor inteligente,Iot,TechSupply,10.25,9.899999999999999,1,Descuento,10.0,2026,6,22,Monday,False,True,3.04,27.36,4.949999999999999,Media
+2,2026-06-23,102,1,20.34,App,20.34,Licencia software,Software,CloudApps,14.0,6.34,2,Bundle,15.0,2026,6,23,Tuesday,False,True,3.0509999999999997,17.289,6.34,Baja
+3,2026-06-24,101,3,22.15,Tienda,66.44999999999999,Sensor inteligente,Iot,TechSupply,10.25,35.699999999999996,3,Sin Promoción,0.0,2026,6,24,Wednesday,False,False,0.0,66.44999999999999,11.899999999999999,Media
+4,2026-06-25,104,5,8.75,App,43.75,Servicio analítico,Servicios,DataConsult,20.0,-56.25,3,Sin promocion,0.0,2026,6,25,Thursday,False,False,0.0,43.75,-11.25,Media
+5,2026-06-26,102,2,30.0,Web,60.0,Licencia software,Software,CloudApps,14.0,32.0,3,Sin Promoción,0.0,2026,6,26,Friday,False,False,0.0,60.0,16.0,Media
+6,2026-06-27,103,4,30.22,App,120.88,Dispositivo móvil,Hardware,MobileCorp,5.5,98.88,3,Sin Promoción,0.0,2026,6,27,Saturday,True,False,0.0,120.88,24.72,Alta
